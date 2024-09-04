@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title>
+            Formating Tags
+        </title>
+    </head>
+    <body>
+        <h1>  HEADING 1 </h1>
+        <h2>  HEADING 1 </h2>
+        <h3>  HEADING 1 </h3>
+        <h4>  HEADING 1 </h4>
+        <h5>  HEADING 1 </h5>
+        <h6>  HEADING 1 </h6>
+        <p>
+    
+            A heading is a <b>word, phrase, or sentence</b> that appears at the beginning of a <i>written passage, such as a paragraph, chapter, or page</i>. Headings are similar to <u>titles and captions,</u> and they can indicate the subject of the passage below them. They can also help structure a document and help the reader understand its organization and find information.</br>
+        </br>
+            
+            
+            Headings can be <q>single words, short phrases, or complete sentences</q> that cover all of the material under them until the next heading. They can help readers identify the main points of each section in a <srike>paper, especially for complex readings</srike> like theses. In Word, headings can be set using "Styles" to ensure that assistive technology, like screen readers, will notify the listener of the header.</br>
+        </br>
+           
+            Headings are commonly used in <strong>certain disciplines, such as business, engineering, nursing, social work, and psychology</strong>. For example, you might write a heading for each chapter of a <del>novel</del> or on each page of a newsletter.</br>
+        </br>
+            
+            <dbo dir="ltr"> Navya Sri</dbo>
+        </br>
+        </br>
+            <dbo dir="rtl"> Navya Sri</dbo>
+        </br>
+        </br>
+            <abbr title="Navya Sri">  She is Student</abbr>
+        </br>
+        </br>
+            <sup>CACO</sup>3
+        </br>
+        </br>
+            X<sup>3</sup>
+        </br>
+        <font face="times new roman" size="20" color=#ffffff>  this a foramte</font>
+        </br>
+        
+
+        </p> 
+    </body>
+</html>
